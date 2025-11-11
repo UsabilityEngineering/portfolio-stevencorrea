@@ -1,13 +1,14 @@
 # Steven's UX Portfolio
 
-![me-sm](https://github.com/user-attachments/assets/5b7b7f51-1d8e-445f-8e43-447675ee5b21)
+![me](https://github.com/user-attachments/assets/273e8603-3da0-4e5a-ac0e-7536ef4a2e13)
 
-Hi I'm Steven. I am studying Usability Engineering while finishing out my undergrad at Chico State.
+👋🏼 Hi I'm Steven. 
+
+I am studying Usability Engineering while finishing out my undergrad at Chico State.
 
 ## UX Team Project
-
-Coming soon.
+In the works 🚧
 
 ## UX Journal
 
-[Difficult Things](journal/)
+[Git Push Configuration](https://github.com/UsabilityEngineering/portfolio-stevencorrea/blob/main/journal/README.md#git-push-configuration)
